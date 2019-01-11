@@ -3,3 +3,12 @@
   text-emphasis: bold;
   color: aliceblue;
 }
+
+a {
+  color: lightgreen;
+
+}
+
+.jumbatron {
+  border-radius: 25%;
+}
