@@ -1,14 +1,20 @@
 #brand {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-emphasis: bold;
-  color: aliceblue;
+  color: lightseagreen;
+  font-size: 20px;
+  
 }
 
 a {
-  color: lightgreen;
+  color: wheat;
+  text-emphasis: bold;
 
 }
 
 .jumbatron {
+ 
   border-radius: 25%;
+  border: 10px solid lightgreen;
+ 
 }
