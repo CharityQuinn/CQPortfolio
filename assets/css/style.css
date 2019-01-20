@@ -1,20 +1,20 @@
 #brand {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-emphasis: bold;
-  color: lightseagreen;
+  color: navy;
   font-size: 20px;
-  
+
 }
 
 a {
-  color: wheat;
+  color: whitesmoke;
   text-emphasis: bold;
 
 }
 
-.jumbatron {
- 
+.jumbotron {
   border-radius: 25%;
-  border: 10px solid lightgreen;
- 
+  border: 10px solid rgb(125, 163, 245);
+  color: navy;
+  background-color: white;
 }
