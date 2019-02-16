@@ -7,7 +7,7 @@
 }
 
 a {
-  color: whitesmoke;
+  color:navy;
   text-emphasis: bold;
 
 }
@@ -17,4 +17,8 @@ a {
   border: 10px solid rgb(125, 163, 245);
   color: navy;
   background-color: white;
+}
+#label {
+  text-align: center;
+  
 }
